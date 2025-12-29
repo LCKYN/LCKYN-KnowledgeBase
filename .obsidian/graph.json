@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#temp  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
       "query": "tag:#link  ",
       "color": {
         "a": 1,
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 2.49895833333333,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 16.6666666666667,
+  "centerStrength": 0.25,
+  "repelStrength": 12.7083333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.45050811767578136,
+  "linkDistance": 390,
+  "scale": 0.4505081176757815,
   "close": true
 }
