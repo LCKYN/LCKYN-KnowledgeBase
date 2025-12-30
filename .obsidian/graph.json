@@ -5,55 +5,104 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"10-19 Intelligence_Modeling\"  ",
+      "query": "path:\"10-19\" file:\"_MOC\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"20-29 Engineering_MLOps\"  ",
+      "query": "path:\"20-29\" file:\"_MOC\"",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:\"30-39 Strategy_Architecture\"  ",
+      "query": "path:\"30-39\" file:\"_MOC\"",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"40-49 Data_Management\"  ",
+      "query": "path:\"40-49\" file:\"_MOC\"",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:\"50-59 Knowledge_Management\"  ",
+      "query": "path:\"50-59\" file:\"_MOC\"",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:\"60-69 Game_Development\"  ",
+      "query": "path:\"60-69\" file:\"_MOC\"",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "path:\"70-79 Development_Toolbox\"  ",
+      "query": "path:\"70-79\" file:\"_MOC\"",
       "color": {
         "a": 1,
         "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"10-19 Intelligence_Modeling\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7350569
+      }
+    },
+    {
+      "query": "path:\"20-29 Engineering_MLOps\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7362601
+      }
+    },
+    {
+      "query": "path:\"30-39 Strategy_Architecture\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5795881
+      }
+    },
+    {
+      "query": "path:\"40-49 Data_Management\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2715689
+      }
+    },
+    {
+      "query": "path:\"50-59 Knowledge_Management\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2715736
+      }
+    },
+    {
+      "query": "path:\"60-69 Game_Development\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2709616
+      }
+    },
+    {
+      "query": "path:\"70-79 Development_Toolbox\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2697584
       }
     },
     {
