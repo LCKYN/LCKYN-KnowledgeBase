@@ -6,7 +6,7 @@ tags: [type/moc, status/evergreen, context/mle]
 # 12 Machine Learning MOC
 
 ## Concepts
-- [[12.01 Ensemble Methods]]
+- [[12.01 Ensemble Methods Bagging & Boosting techniques]]
 
 ## Algorithms
 -
