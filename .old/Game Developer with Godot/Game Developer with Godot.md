@@ -13,3 +13,4 @@ auto battler?
 turn base?
 crafting? 
 2d or 3d? 
+art style? 

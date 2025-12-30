@@ -1,0 +1,23 @@
+
+**Core Concept:**  
+A systematic method for organizing digital information using a numerical hierarchy. It eliminates "file-hunting" by assigning a permanent, unique address to every folder and file.
+
+**Structure: `AA.ID` (Area.Category.ID)**
+
+- **Areas (AA):** Broad top-level categories (e.g., `10-19`, `20-29`). We use ranges of ten to group related topics and leave gaps for future expansion.
+- **Categories & IDs (.ID):** Specific topics or individual files (e.g., `11.01`, `11.02`). The decimal ensures files remain in a logical, fixed order.
+
+**Key Principles for Engineers:**
+
+1. **Logical Sorting:** Using leading zeros (e.g., `.01` instead of `.1`) forces computers to sort files correctly (1-99) rather than alphabetically or by timestamp.
+2. **Flat Hierarchy:** The "Rule of Two" mandates no more than two levels of folders. This ensures any file is reachable within 2-3 clicks, reducing cognitive load.
+3. **Future-Proofing (The Gap Strategy):** By skipping numbers (e.g., jumping from `10` to `20`), you create "space" to insert new, unforeseen categories later without renumbering your entire vault.
+4. **Instant Search:** Numerical IDs act as "shortcuts." Instead of searching for "RAG Fine-tuning Optimization," you simply search for `11.05` to find the exact document instantly.
+
+**Proposed File Management Structure:**
+
+- **50-59 Knowledge Management**
+    - `51.01 Johnny.Decimal System.md`
+    - `51.02 Obsidian Sync & Git Workflow.md`
+    - `51.03 Zettelkasten vs MOC Methods.md`
+    
