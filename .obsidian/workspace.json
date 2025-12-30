@@ -11,10 +11,14 @@
             "id": "9c280e9b7133b32f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "50-59 Knowledge_Management/51_System_Guides/51.01 Johnny.Decimal System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "51.01 Johnny.Decimal System"
             }
           }
         ]
@@ -190,6 +194,8 @@
   },
   "active": "9c280e9b7133b32f",
   "lastOpenFiles": [
+    "50-59 Knowledge_Management/52_Tagging_Taxonomy/52.01 Taxonomy & Tagging Strategy.md",
+    "50-59 Knowledge_Management/51_System_Guides/51.01 Johnny.Decimal System.md",
     "99_Attachments",
     "90-99 Archive_Personal/93_Reading_List",
     "90-99 Archive_Personal/92_Daily_Logs",
@@ -200,7 +206,6 @@
     "70-79 Development_Toolbox/71_Python_Snippets",
     "70-79 Development_Toolbox",
     "60-69 Game_Development/63_Assets_Graphics",
-    "60-69 Game_Development/62_Game_Design",
     "DS + MLE + LLM Dev/temp2.md",
     "Taxonomy & Tagging Strategy.md",
     "Johnny.Decimal System.md",
