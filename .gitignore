@@ -1,0 +1,9 @@
+# Obsidian system files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/indexed-db/
+.obsidian/plugins/obsidian-git/data.json
+
+# If you want to sync plugins but not their heavy local data
+# .obsidian/plugins/*/*.json
