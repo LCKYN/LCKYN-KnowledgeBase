@@ -49,6 +49,14 @@ Use Obsidian callout syntax:
 ### Math
 Use `$inline$` and `$$block$$` LaTeX syntax.
 
+### Diagrams
+Use Mermaid for all diagrams (flowcharts, sequence diagrams, architecture diagrams, etc.):
+```mermaid
+graph TD
+    A[Start] --> B[Process]
+    B --> C[End]
+```
+
 ### Dataview
 Never modify ` ```dataview ` code blocks.
 
