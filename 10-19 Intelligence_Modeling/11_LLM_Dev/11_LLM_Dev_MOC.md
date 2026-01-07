@@ -15,6 +15,7 @@ tags: [type/moc, status/evergreen, context/llm]
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
+- [[11.08 MCP Server]]
 
 ## Architectures
 -
