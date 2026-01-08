@@ -13,6 +13,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.06 AG-UI Protocol]]
 - [[11.07 A2UI]]
 - [[11.09 Placeholder-Based Generation]]
+- [[11.10 LLM Guardrails]]
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
