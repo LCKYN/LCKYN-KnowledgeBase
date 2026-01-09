@@ -60,6 +60,29 @@ graph TD
 ### Dataview
 Never modify ` ```dataview ` code blocks.
 
+## Content Style Guidelines
+
+### Code Examples
+- **Minimize code blocks** - This is a knowledge base, not a code repository
+- Prefer **concise snippets** (3-10 lines max) over full implementations
+- Use **pseudocode or bullet points** to explain logic when possible
+- Only include code when it demonstrates a **specific concept** or **syntax pattern**
+- Avoid boilerplate, imports, and repetitive patterns
+- Reference external documentation for full implementations
+
+### Note Length
+- Keep notes **focused and scannable**
+- Use **tables** for comparisons instead of verbose explanations
+- Prefer **bullet points** over paragraphs
+- Target **200-400 lines** per note maximum
+- Split large topics into multiple linked notes
+
+### Writing Style
+- **Concise over comprehensive** - link to docs for details
+- **Concept-first** - explain the "what" and "why" before "how"
+- Use **bold** for key terms on first mention
+- Include **practical use cases** over theoretical depth
+
 ## File Conventions
 
 ### MOC Files (Maps of Content)
@@ -74,3 +97,4 @@ Legacy/deprecated content lives in `.old/` (gitignored patterns may apply).
 ## Key Reference Files
 - System guide: [51.01 Johnny.Decimal System.md](50-59%20Knowledge_Management/51_System_Guides/51.01%20Johnny.Decimal%20System.md)
 - Tagging strategy: [52.01 Taxonomy & Tagging Strategy.md](50-59%20Knowledge_Management/52_Tagging_Taxonomy/52.01%20Taxonomy%20%26%20Tagging%20Strategy.md)
+
