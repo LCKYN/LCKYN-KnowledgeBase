@@ -14,6 +14,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.07 A2UI]]
 - [[11.09 Placeholder-Based Generation]]
 - [[11.10 LLM Guardrails]]
+- [[11.11 Agentic LLM]]
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
