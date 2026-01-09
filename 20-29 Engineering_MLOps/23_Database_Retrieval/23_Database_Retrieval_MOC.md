@@ -11,7 +11,7 @@ tags: [type/moc, status/growing, context/data-engineering]
 - [[23.01 Vector Databases]]
 
 ## Concepts
--
+- [[23.02 TF-IDF]]
 
 ## Tools & Frameworks
 -
