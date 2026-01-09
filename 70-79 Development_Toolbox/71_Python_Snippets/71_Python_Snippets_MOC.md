@@ -15,6 +15,9 @@ tags: [type/moc, status/growing, context/python]
   - **Performance**: Free-threading (no GIL), subinterpreters, JIT compiler, incremental GC
   - **Tools**: Live process debugging (PEP 768), better error messages
 
+## Libraries & Packages
+- [[71.02 Disnake Package]] - Discord API wrapper with slash commands, buttons, modals
+
 ## Code Patterns
 - Design patterns
 - Decorators and context managers
