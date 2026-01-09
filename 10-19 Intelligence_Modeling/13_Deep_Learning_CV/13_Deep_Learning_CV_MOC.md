@@ -11,6 +11,7 @@ tags: [type/moc, status/evergreen, context/dl]
 
 ## Architectures
 - [[13.02 VGG]]
+- [[13.04 EfficientNet]]
 
 ## Computer Vision
 -
