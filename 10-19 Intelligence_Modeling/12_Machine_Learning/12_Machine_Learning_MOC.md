@@ -10,6 +10,7 @@ tags: [type/moc, status/evergreen, context/mle]
 - [[12.02 Overfitting and Underfitting]]
 - [[12.03 Supervised Learning]]
 - [[12.05 Feature Discretization]]
+- [[12.06 One-Hot Encoding]]
 
 ## Algorithms
 - [[12.04 Logistic Regression]]
