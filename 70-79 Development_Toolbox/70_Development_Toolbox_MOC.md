@@ -24,3 +24,8 @@ tags: [type/moc, status/evergreen, context/dev-tools]
 - Text processing
 - CI/CD helpers
 - System administration tasks
+
+## 74 Git Workflows
+- [[74_Git_Workflows_MOC]]
+  - **[[74.01 Conventional Commits]]**: Standardized commit messages for automated versioning
+  - **[[74.02 pre-commit]]**: Python framework for managing Git hooks
