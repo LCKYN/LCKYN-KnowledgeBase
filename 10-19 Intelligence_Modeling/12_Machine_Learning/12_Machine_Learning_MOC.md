@@ -11,6 +11,8 @@ tags: [type/moc, status/evergreen, context/mle]
 - [[12.03 Supervised Learning]]
 - [[12.05 Feature Discretization]]
 - [[12.06 One-Hot Encoding]]
+- [[12.07 Bias-Variance Tradeoff]]
+- [[12.08 Cross-Validation]]
 
 ## Algorithms
 - [[12.04 Logistic Regression]]
