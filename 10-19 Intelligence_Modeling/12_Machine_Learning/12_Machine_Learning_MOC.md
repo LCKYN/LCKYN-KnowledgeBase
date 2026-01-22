@@ -13,6 +13,7 @@ tags: [type/moc, status/evergreen, context/mle]
 - [[12.06 One-Hot Encoding]]
 - [[12.07 Bias-Variance Tradeoff]]
 - [[12.08 Cross-Validation]]
+- [[12.09 Hyperparameter Tuning]]
 
 ## Algorithms
 - [[12.04 Logistic Regression]]
