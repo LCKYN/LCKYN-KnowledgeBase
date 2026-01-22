@@ -16,6 +16,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.10 LLM Guardrails]]
 - [[11.11 Agentic LLM]]
 - [[11.12 RAG]]
+- [[11.13 Chain of Thought]]
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
