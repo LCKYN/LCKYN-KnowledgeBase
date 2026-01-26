@@ -11,12 +11,9 @@ tags: [type/moc, status/evergreen, context/dev-tools]
 - [[71_Python_Snippets_MOC]]
   - **71.01 Python 3.14**: New features including free-threading, t-strings, deferred annotations, JIT, enhanced REPL
 
-## 72 SQL Querying
-- Common query patterns
-- Optimization techniques
-- Window functions
-- CTEs and subqueries
-- Database-specific features
+## 72 Algorithms
+- [[72_Algorithms_MOC]]
+  - Algorithm design paradigms and problem-solving techniques
 
 ## 73 Shell Automation
 - Bash/PowerShell scripts
