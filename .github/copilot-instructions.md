@@ -31,9 +31,9 @@ tags: [type/concept, status/evergreen, context/llm]
 ### Tagging Conventions
 - **Lowercase only**, use **kebab-case** for multi-word tags
 - Nested tag structure:
-  - `#type/` → `concept`, `code`, `template`, `benchmark`
+  - `#type/` → `concept`, `code`, `template`, `benchmark`, `tool`, `moc`
   - `#status/` → `seed`, `growing`, `evergreen`
-  - `#context/` → `llm`, `mle`, `finops`
+  - `#context/` → `llm`, `mle`, `dl`, `finops`, `data-engineering`, `km`, `dev-tools`, `devops`, `python`, `mlops`, `safety`, `ai`
 
 ### Internal Links
 Use Obsidian wiki-links: `[[Filename]]` or `[[Filename|Display Text]]`
