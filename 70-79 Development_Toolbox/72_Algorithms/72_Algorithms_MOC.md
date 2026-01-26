@@ -11,18 +11,22 @@ tags: [type/moc, status/seed, context/dev-tools]
 
 - [[72.01 Brute Force and Exhaustive Search]]
 - [[72.02 Decrease-and-Conquer]]
-- [[72.03 Divide-and-Conquer]]
-- [[72.04 Transform-and-Conquer]]
-- [[72.05 Space and Time Trade-Offs]]
-- [[72.06 Dynamic Programming]]
-- [[72.07 Greedy Technique]]
-- [[72.08 Iterative Improvement]]
 
-## Theoretical Foundations
+## Data Structures & Techniques
 
-- [[72.09 Limitations of Algorithm Power]]
-- [[72.10 Coping with Limitations]]
+- [[72.03 Graph Algorithms]]
+- [[72.04 Tree Traversals]]
+- [[72.05 Hash Table Techniques]]
+- [[72.06 Heap and Priority Queue]]
 
-## Specific Algorithms
+## Search & Sort
 
-<!-- Add individual algorithm notes here when split from umbrella notes -->
+- [[72.07 Binary Search Patterns]]
+- [[72.08 Sorting Algorithms Comparison]]
+
+## ML/LLM Relevant
+
+- [[72.09 Similarity Search]]
+- [[72.10 Edit Distance]]
+- [[72.11 Sampling Algorithms]]
+- [[72.12 Beam Search]]
