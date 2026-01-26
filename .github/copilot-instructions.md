@@ -98,12 +98,18 @@ Standard sections for concept notes (adapt as needed):
 - `> [!EXAMPLE]` - Concrete scenarios
 
 ### Related Links Section
-End notes with a "Related Concepts" section using wiki-links:
+End notes with a "Related Concepts" section using wiki-links with brief annotations explaining the relationship:
 ```markdown
 ## Related Concepts
-- [[Related Note 1]]
-- [[Related Note 2]]
+- [[Related Note 1]] - Why it's related (e.g., "contrast", "example", "prerequisite")
+- [[Related Note 2]] - Brief context for the connection
 ```
+
+**Link annotation guidelines:**
+- Add a brief phrase after the dash explaining the relationship
+- Use patterns like: "contrast with X", "example of Y", "use when Z fails", "prerequisite for understanding"
+- Keep annotations under 10 words
+- Always include `[[Category_MOC]]` as the first link
 
 ### Avoid (Don'ts)
 - ❌ Long paragraphs (use bullets instead)
@@ -116,6 +122,17 @@ End notes with a "Related Concepts" section using wiki-links:
 
 ### MOC Files (Maps of Content)
 Each category has a `_MOC.md` file (e.g., `50_Knowledge_Management_MOC.md`) serving as an index.
+
+**MOC linking rules:**
+- MOCs only link **downward** to their subcategories (e.g., `20_MOC` → `21`, `22`, `23`, `24`)
+- MOCs do **NOT** have a "Related Concepts" section linking to other MOCs
+- Cross-category navigation happens through subcategory notes, not MOCs
+- Individual notes link to their parent MOC as the first Related Concept
+
+**Hierarchical linking rules:**
+- `X0` (category MOC) only links to `XX` (subcategory MOCs)
+- `XX` (subcategory MOC) only links to `XX.YY` (individual notes)
+- `XX.YY` (individual notes) can link to any `XX.YY` across categories
 
 ### Attachments
 Store images/PDFs in `99_Attachments/` folder.
