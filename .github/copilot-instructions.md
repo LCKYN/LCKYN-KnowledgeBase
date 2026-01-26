@@ -83,6 +83,35 @@ Never modify ` ```dataview ` code blocks.
 - Use **bold** for key terms on first mention
 - Include **practical use cases** over theoretical depth
 
+### Note Structure Template
+Standard sections for concept notes (adapt as needed):
+1. **Overview** - 2-3 sentence definition
+2. **Key Concepts** - Core ideas with bullet points
+3. **Comparison Table** (if applicable)
+4. **Practical Use Cases** - When/why to use
+5. **Related Concepts** - Wiki-links to connected notes
+
+### Callout Usage
+- `> [!INFO]` - Definitions, background context
+- `> [!TIP]` - Best practices, recommendations
+- `> [!WARNING]` - Pitfalls, common mistakes
+- `> [!EXAMPLE]` - Concrete scenarios
+
+### Related Links Section
+End notes with a "Related Concepts" section using wiki-links:
+```markdown
+## Related Concepts
+- [[Related Note 1]]
+- [[Related Note 2]]
+```
+
+### Avoid (Don'ts)
+- ❌ Long paragraphs (use bullets instead)
+- ❌ Full code implementations (link to docs)
+- ❌ Orphan notes without wiki-links
+- ❌ Duplicate content across notes
+- ❌ Headers without content beneath them
+
 ## File Conventions
 
 ### MOC Files (Maps of Content)
