@@ -20,11 +20,7 @@ Cloud platforms, compute resources, and deployment environments for ML workloads
 
 Lifecycle management for machine learning and LLM applications.
 
-- Model versioning and registry
-- CI/CD for ML pipelines
-- Experiment tracking
-- A/B testing and canary deployments
-- LLM-specific operations (prompt versioning, guardrails deployment)
+- [[22_MLOps_MOC]]
 
 ## 23 Database & Retrieval
 
@@ -36,9 +32,6 @@ Data storage and retrieval systems optimized for ML/LLM workloads.
 
 Tracking model performance, drift detection, and system health.
 
-- Model performance monitoring
-- Data drift detection
-- Logging and tracing for LLM calls
-- Cost tracking and alerting
+- [[24_Monitoring_MOC]]
 
 
