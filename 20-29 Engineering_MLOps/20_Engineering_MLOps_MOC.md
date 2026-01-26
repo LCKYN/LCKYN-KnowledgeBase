@@ -1,6 +1,9 @@
 ---
 id: 20
-tags: [type/moc, status/growing, context/mlops]
+tags:
+  - type/moc
+  - status/growing
+  - context/mlops
 ---
 
 # 20 Engineering & MLOps MOC
@@ -20,18 +23,18 @@ Cloud platforms, compute resources, and deployment environments for ML workloads
 
 Lifecycle management for machine learning and LLM applications.
 
-- [[22_MLOps_MOC]]
+- [22_MLOps_MOC](obsidian://open?vault=YourVaultName&file=20-29%20Engineering_MLOps/22_MLOps/22_MLOps_MOC)
 
 ## 23 Database & Retrieval
 
 Data storage and retrieval systems optimized for ML/LLM workloads.
 
-- [[23_Database_Retrieval_MOC]]
+- [23_Database_Retrieval_MOC](obsidian://open?vault=YourVaultName&file=20-29%20Engineering_MLOps/23_Database_Retrieval/23_Database_Retrieval_MOC)
 
 ## 24 Monitoring & Observability
 
 Tracking model performance, drift detection, and system health.
 
-- [[24_Monitoring_MOC]]
+- [24_Monitoring_MOC](obsidian://open?vault=YourVaultName&file=20-29%20Engineering_MLOps/24_Monitoring/24_Monitoring_MOC)
 
 

@@ -8,11 +8,11 @@ This Map of Content (MOC) organizes the systems and strategies used to maintain 
 
 ## 51 System Guides
 Core documentation on how this vault is structured.
-- [[51_System_Guides_MOC]]: Index of system guides and manuals.
+- [51_System_Guides_MOC](obsidian://open?vault=YourVaultName&file=50-59%20Knowledge_Management/51_System_Guides/51_System_Guides_MOC): Index of system guides and manuals.
 
 ## 52 Tagging Taxonomy
 Strategies for metadata and cross-linking.
-- [[52_Tagging_Taxonomy_MOC]]: Index of tagging strategies and taxonomy rules.
+- [52_Tagging_Taxonomy_MOC](obsidian://open?vault=YourVaultName&file=50-59%20Knowledge_Management/52_Tagging_Taxonomy/52_Tagging_Taxonomy_MOC): Index of tagging strategies and taxonomy rules.
 
 ## 53 Tools & Workflow
 (Placeholder for future tools and workflow descriptions)

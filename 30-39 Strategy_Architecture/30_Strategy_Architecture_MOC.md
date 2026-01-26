@@ -11,13 +11,13 @@ tags: [type/moc, status/growing, context/ai]
 
 Architecture patterns for scalable ML/LLM systems.
 
-- [[31_System_Design_MOC]]
+- [31_System_Design_MOC](obsidian://open?vault=YourVaultName&file=30-39%20Strategy_Architecture/31_System_Design/31_System_Design_MOC)
 
 ## 32 Cost Management
 
 FinOps practices for ML/LLM workloads.
 
-- [[32_Cost_Management_MOC]]
+- [32_Cost_Management_MOC](obsidian://open?vault=YourVaultName&file=30-39%20Strategy_Architecture/32_Cost_Management/32_Cost_Management_MOC)
 
 ## 33 Project Management
 
