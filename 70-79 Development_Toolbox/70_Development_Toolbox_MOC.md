@@ -11,11 +11,12 @@ tags: [type/moc, status/evergreen, context/dev-tools]
 - [[71_Python_Snippets_MOC]]
   - **71.01 Python 3.14**: New features including free-threading, t-strings, deferred annotations, JIT, enhanced REPL
 
-## 72 Algorithms
-- [[72_Algorithms_MOC]]
-  - **[[72.01 Dynamic Programming]]**: Optimal substructure + memoization/tabulation
-  - **[[72.02 Greedy Algorithm]]**: Local optimal choices for global optimum
-  - **[[72.03 Divide and Conquer]]**: Split, solve, merge pattern
+## 72 SQL Querying
+- Common query patterns
+- Optimization techniques
+- Window functions
+- CTEs and subqueries
+- Database-specific features
 
 ## 73 Shell Automation
 - Bash/PowerShell scripts
