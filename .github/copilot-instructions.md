@@ -129,6 +129,14 @@ Each category has a `_MOC.md` file (e.g., `50_Knowledge_Management_MOC.md`) serv
 - Cross-category navigation happens through subcategory notes, not MOCs
 - Individual notes link to their parent MOC as the first Related Concept
 
+**X0 MOC link format (main category MOCs):**
+- Use Obsidian URI format for linking to subcategory MOCs:
+```markdown
+- [22_MLOps_MOC](obsidian://open?vault=YourVaultName&file=20-29%20Engineering_MLOps/22_MLOps/22_MLOps_MOC)
+```
+- Pattern: `[XX_Name_MOC](obsidian://open?vault=YourVaultName&file=<folder-path>/<subfolder>/<MOC-filename>)`
+- URL-encode spaces as `%20` in the file path
+
 **Hierarchical linking rules:**
 - `X0` (category MOC) only links to `XX` (subcategory MOCs)
 - `XX` (subcategory MOC) only links to `XX.YY` (individual notes)
