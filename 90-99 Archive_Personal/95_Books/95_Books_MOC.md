@@ -12,3 +12,4 @@ Technical books for computer science, algorithms, and software engineering funda
 | Title | Author | Topics |
 |-------|--------|--------|
 | [[95.01 Introduction to Design and Analysis of Algorithms]] | Anany Levitin | Algorithm design, complexity, paradigms |
+| [[95.02 Everybody Lies]] | Seth Stephens-Davidowitz | Big data, human behavior, search analytics |
