@@ -1,128 +1,156 @@
 {
-  "collapse-filter": true,
-  "search": "",
-  "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:\"10-19\" file:\"_MOC\"",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"20-29\" file:\"_MOC\"",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"30-39\" file:\"_MOC\"",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"40-49\" file:\"_MOC\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"50-59\" file:\"_MOC\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"60-69\" file:\"_MOC\"",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:\"70-79\" file:\"_MOC\"",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:\"10-19 Intelligence_Modeling\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 7350569
-      }
-    },
-    {
-      "query": "path:\"20-29 Engineering_MLOps\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 7362601
-      }
-    },
-    {
-      "query": "path:\"30-39 Strategy_Architecture\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5795881
-      }
-    },
-    {
-      "query": "path:\"40-49 Data_Management\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2715689
-      }
-    },
-    {
-      "query": "path:\"50-59 Knowledge_Management\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2715736
-      }
-    },
-    {
-      "query": "path:\"60-69 Game_Development\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2709616
-      }
-    },
-    {
-      "query": "path:\"70-79 Development_Toolbox\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2697584
-      }
-    },
-    {
-      "query": "path:99_Attachments  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    }
-  ],
-  "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 3.03489583333333,
-  "lineSizeMultiplier": 2.49895833333333,
-  "collapse-forces": false,
-  "centerStrength": 0.203125,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.11660891579457329,
-  "close": false
+    "collapse-filter": true,
+    "search": "",
+    "showTags": false,
+    "showAttachments": false,
+    "hideUnresolved": true,
+    "showOrphans": false,
+    "collapse-color-groups": false,
+    "colorGroups": [
+        {
+            "query": "path:\"10-19\" file:\"_MOC\"",
+            "color": {
+                "a": 1,
+                "rgb": 14701138
+            }
+        },
+        {
+            "query": "path:\"20-29\" file:\"_MOC\"",
+            "color": {
+                "a": 1,
+                "rgb": 14725458
+            }
+        },
+        {
+            "query": "path:\"30-39\" file:\"_MOC\"",
+            "color": {
+                "a": 1,
+                "rgb": 11657298
+            }
+        },
+        {
+            "query": "path:\"40-49\" file:\"_MOC\"",
+            "color": {
+                "a": 1,
+                "rgb": 5431378
+            }
+        },
+        {
+            "query": "path:\"50-59\" file:\"_MOC\"",
+            "color": {
+                "a": 1,
+                "rgb": 5431473
+            }
+        },
+        {
+            "query": "path:\"60-69\" file:\"_MOC\"",
+            "color": {
+                "a": 1,
+                "rgb": 5419488
+            }
+        },
+        {
+            "query": "path:\"70-79\" file:\"_MOC\"",
+            "color": {
+                "a": 1,
+                "rgb": 5395168
+            }
+        },
+        {
+            "query": "path:\"80-89\" file:\"_MOC\"",
+            "color": {
+                "a": 1,
+                "rgb": 8355711
+            }
+        },
+        {
+            "query": "path:\"90-99\" file:\"_MOC\"",
+            "color": {
+                "a": 1,
+                "rgb": 9868950
+            }
+        },
+        {
+            "query": "path:\"10-19 Intelligence_Modeling\"  ",
+            "color": {
+                "a": 1,
+                "rgb": 7350569
+            }
+        },
+        {
+            "query": "path:\"20-29 Engineering_MLOps\"  ",
+            "color": {
+                "a": 1,
+                "rgb": 7362601
+            }
+        },
+        {
+            "query": "path:\"30-39 Strategy_Architecture\"  ",
+            "color": {
+                "a": 1,
+                "rgb": 5795881
+            }
+        },
+        {
+            "query": "path:\"40-49 Data_Management\"  ",
+            "color": {
+                "a": 1,
+                "rgb": 2715689
+            }
+        },
+        {
+            "query": "path:\"50-59 Knowledge_Management\"  ",
+            "color": {
+                "a": 1,
+                "rgb": 2715736
+            }
+        },
+        {
+            "query": "path:\"60-69 Game_Development\"  ",
+            "color": {
+                "a": 1,
+                "rgb": 2709616
+            }
+        },
+        {
+            "query": "path:\"70-79 Development_Toolbox\"  ",
+            "color": {
+                "a": 1,
+                "rgb": 2697584
+            }
+        },
+        {
+            "query": "path:\"80-89\"  ",
+            "color": {
+                "a": 1,
+                "rgb": 6316128
+            }
+        },
+        {
+            "query": "path:\"90-99 Archive_Personal\"  ",
+            "color": {
+                "a": 1,
+                "rgb": 7829367
+            }
+        },
+        {
+            "query": "path:99_Attachments  ",
+            "color": {
+                "a": 1,
+                "rgb": 11621088
+            }
+        }
+    ],
+    "collapse-display": false,
+    "showArrow": false,
+    "textFadeMultiplier": -3,
+    "nodeSizeMultiplier": 3.03489583333333,
+    "lineSizeMultiplier": 2.49895833333333,
+    "collapse-forces": false,
+    "centerStrength": 0.203125,
+    "repelStrength": 20,
+    "linkStrength": 1,
+    "linkDistance": 250,
+    "scale": 0.22920135941749348,
+    "close": true
 }
