@@ -20,6 +20,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.14 Prompt Engineering]]
 - [[11.15 LLM Evaluation Metrics]]
 - [[11.16 Context Window Management]]
+- [[11.18 LLM Throughput & Memory Bound]]
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
