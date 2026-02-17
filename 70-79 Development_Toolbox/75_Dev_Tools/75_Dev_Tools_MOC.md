@@ -14,3 +14,5 @@ Development tools, editors, extensions, and utilities for productive software en
 - [[75.03 Ruff]] - Fast Python linter & formatter
 - [[75.04 Black]] - Opinionated Python formatter
 - [[75.05 GitLens]] - Enhanced Git for VS Code
+- [[75.06 perf-api-framework]] - API stress-test & benchmarking framework
+- [[75.07 Express.js]] - Minimal Node.js web framework

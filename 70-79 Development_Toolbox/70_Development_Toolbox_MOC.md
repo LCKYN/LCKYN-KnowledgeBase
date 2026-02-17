@@ -18,3 +18,6 @@ tags: [type/moc, status/evergreen, context/dev-tools]
 
 ## 74 Git Workflows
 - [74_Git_Workflows_MOC](obsidian://open?vault=YourVaultName&file=70-79%20Development_Toolbox/74_Git_Workflows/74_Git_Workflows_MOC)
+
+## 75 Dev Tools
+- [75_Dev_Tools_MOC](obsidian://open?vault=YourVaultName&file=70-79%20Development_Toolbox/75_Dev_Tools/75_Dev_Tools_MOC)
