@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"10-19\" file:\"_MOC\"",
@@ -54,20 +54,6 @@
       "color": {
         "a": 1,
         "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:\"80-89\" file:\"_MOC\"",
-      "color": {
-        "a": 1,
-        "rgb": 8355711
-      }
-    },
-    {
-      "query": "path:\"90-99\" file:\"_MOC\"",
-      "color": {
-        "a": 1,
-        "rgb": 9868950
       }
     },
     {
@@ -120,20 +106,6 @@
       }
     },
     {
-      "query": "path:\"80-89\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6316128
-      }
-    },
-    {
-      "query": "path:\"90-99 Archive_Personal\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 7829367
-      }
-    },
-    {
       "query": "path:99_Attachments  ",
       "color": {
         "a": 1,
@@ -151,6 +123,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2292013594174935,
+  "scale": 0.7328450044721949,
   "close": true
 }

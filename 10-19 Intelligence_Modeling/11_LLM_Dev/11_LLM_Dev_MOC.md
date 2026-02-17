@@ -26,7 +26,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.08 MCP Server]]
 
 ## Architectures
--
+- [[11.17 Mixture of Experts]]
 
 ## Training
 -
