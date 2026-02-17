@@ -14,7 +14,8 @@ tags: [type/moc, status/growing, context/data-engineering]
 - [[23.02 TF-IDF]]
 
 ## Tools & Frameworks
--
+- [[23.03 Redis]]
+- [[23.04 Dragonfly]]
 
 ## Integration Patterns
 -
