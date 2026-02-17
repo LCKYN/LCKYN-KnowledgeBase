@@ -18,3 +18,5 @@ Development tools, editors, extensions, and utilities for productive software en
 - [[75.07 Express.js]] - Minimal Node.js web framework
 - [[75.08 oha]] - Rust-based HTTP load generator
 - [[75.09 Data Wrangler]] - VS Code data exploration & transformation
+- [[75.10 ReportLab]] - Python programmatic PDF generation
+- [[75.11 Typst]] - Modern markup-based typesetting system
