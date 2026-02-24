@@ -15,6 +15,9 @@ tags: [type/moc, status/growing, context/python]
   - **Performance**: Free-threading (no GIL), subinterpreters, JIT compiler, incremental GC
   - **Tools**: Live process debugging (PEP 768), better error messages
 
+## Style & Best Practices
+- [[71.04 Google Python Style Guide]] - Google's canonical conventions for language rules, formatting, naming, and type annotations
+
 ## Libraries & Packages
 - [[71.02 Disnake Package]] - Discord API wrapper with slash commands, buttons, modals
 - [[71.03 FastAPI]] - Modern web framework for building APIs
