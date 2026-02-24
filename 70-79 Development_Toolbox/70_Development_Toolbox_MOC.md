@@ -7,7 +7,7 @@ tags: [type/moc, status/evergreen, context/dev-tools]
 
 **Overview**: Practical code snippets, scripts, and reference implementations for common development tasks across Python, SQL, and shell environments.
 
-## 71 Python Snippets
+## 71 Code Snippets (Python · Rust)
 - [71_Python_Snippets_MOC](obsidian://open?vault=YourVaultName&file=70-79%20Development_Toolbox/71_Python_Snippets/71_Python_Snippets_MOC)
 
 ## 72 Algorithms
