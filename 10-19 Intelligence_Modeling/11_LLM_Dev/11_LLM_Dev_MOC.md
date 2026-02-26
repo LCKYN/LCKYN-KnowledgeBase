@@ -25,6 +25,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.20 LLM Memory Architecture]]
 - [[11.21 Prompt Caching]]
 - [[11.22 Computing Units for AI]]
+- [[11.23 Workspace Indexing]]
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
