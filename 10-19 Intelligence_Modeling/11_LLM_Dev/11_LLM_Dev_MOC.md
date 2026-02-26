@@ -24,6 +24,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.18 LLM Throughput & Memory Bound]]
 - [[11.20 LLM Memory Architecture]]
 - [[11.21 Prompt Caching]]
+- [[11.22 Computing Units for AI]]
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
