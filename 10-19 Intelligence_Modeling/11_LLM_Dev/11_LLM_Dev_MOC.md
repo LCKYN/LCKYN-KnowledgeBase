@@ -26,6 +26,8 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.21 Prompt Caching]]
 - [[11.22 Computing Units for AI]]
 - [[11.23 Workspace Indexing]]
+- [[11.24 Clean Code for LLM Agents]]
+- [[11.25 Writing Code That AI Assistants Understand]]
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
