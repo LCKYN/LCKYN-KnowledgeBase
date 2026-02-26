@@ -21,6 +21,8 @@ tags: [type/moc, status/growing, context/python]
 
 ### Style & Best Practices
 - [[71.04 Google Python Style Guide]] - Google's canonical conventions for language rules, formatting, naming, and type annotations
+- [[71.06 Python Clean Code]] - Naming, functions, classes, error handling, anti-patterns
+- [[71.07 SOLID Principles]] - SRP, OCP, LSP, ISP, DIP with Python examples
 
 ### Libraries & Packages
 - [[71.02 Disnake Package]] - Discord API wrapper with slash commands, buttons, modals
