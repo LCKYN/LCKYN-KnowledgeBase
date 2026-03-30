@@ -32,6 +32,10 @@ tags: [type/moc, status/evergreen, context/llm]
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
 - [[11.08 MCP Server]]
+- [[11.26 XGrammar]] - Constrained generation via CFG token masking; near-zero overhead structured output
+
+## Inference Engines
+- [[11.27 LLM Generation Engines]] - vLLM, SGLang, TensorRT-LLM, TGI, llama.cpp, Ollama
 
 ## Inference Providers
 - [[11.20 Groq]]
