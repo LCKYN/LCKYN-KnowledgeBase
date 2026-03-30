@@ -17,5 +17,8 @@ tags: [type/moc, status/growing, context/data-engineering]
 - [[23.03 Redis]]
 - [[23.04 Dragonfly]]
 
+## Design & Documentation
+- [[23.05 Database Schema Documentation]] - When table/column descriptions are necessary; impact on text-to-SQL, Copilot, dbt catalogs
+
 ## Integration Patterns
 -
