@@ -28,6 +28,7 @@ tags: [type/moc, status/growing, context/python]
 ### Libraries & Packages
 - [[71.02 Disnake Package]] - Discord API wrapper with slash commands, buttons, modals
 - [[71.03 FastAPI]] - Modern web framework for building APIs
+- [[71.09 Pydantic]] - Data validation, serialization, JSON schema generation; backbone of FastAPI and LLM tool schemas
 
 ### Code Patterns
 - Design patterns
