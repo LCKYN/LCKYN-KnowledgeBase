@@ -51,3 +51,4 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.31 Supervised Fine-Tuning]] - Instruction tuning on labeled prompt-response pairs
 - [[11.32 PEFT]] - LoRA, QLoRA, Adapters, Prefix Tuning
 - [[11.33 Continued Pre-training]] - Domain adaptation via additional pre-training on raw corpora
+- [[11.34 Full Fine-Tuning vs PEFT]] - Trade-offs between updating all weights vs adapter-based methods
