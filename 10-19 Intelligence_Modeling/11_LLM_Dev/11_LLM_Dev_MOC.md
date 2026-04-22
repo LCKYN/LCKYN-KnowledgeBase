@@ -58,3 +58,8 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.36 Gradient Checkpointing]] - Trade compute for activation memory
 - [[11.37 Distributed Training]] - DDP, FSDP, DeepSpeed ZeRO, tensor/pipeline parallelism
 - [[11.38 Flash Attention]] - IO-aware exact attention with linear memory
+
+## Quantization & Compression
+- [[11.39 Quantization]] - GPTQ, AWQ, GGUF, INT8/INT4 post-training quantization
+- [[11.40 Pruning & Sparsity]] - Structured / unstructured weight removal
+- [[11.41 Speculative Decoding]] - Draft-then-verify inference acceleration
