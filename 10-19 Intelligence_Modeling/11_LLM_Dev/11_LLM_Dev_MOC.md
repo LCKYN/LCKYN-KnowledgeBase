@@ -52,3 +52,9 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.32 PEFT]] - LoRA, QLoRA, Adapters, Prefix Tuning
 - [[11.33 Continued Pre-training]] - Domain adaptation via additional pre-training on raw corpora
 - [[11.34 Full Fine-Tuning vs PEFT]] - Trade-offs between updating all weights vs adapter-based methods
+
+## Optimization & Efficiency
+- [[11.35 Mixed Precision Training]] - FP16, BF16, FP8 for faster, lower-memory training
+- [[11.36 Gradient Checkpointing]] - Trade compute for activation memory
+- [[11.37 Distributed Training]] - DDP, FSDP, DeepSpeed ZeRO, tensor/pipeline parallelism
+- [[11.38 Flash Attention]] - IO-aware exact attention with linear memory
