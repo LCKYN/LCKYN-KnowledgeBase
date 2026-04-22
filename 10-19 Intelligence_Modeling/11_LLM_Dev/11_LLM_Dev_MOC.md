@@ -47,4 +47,4 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.17 Mixture of Experts]]
 
 ## Training
--
+- [[11.30 Scaling Laws]] - Chinchilla, compute-optimal training
