@@ -63,3 +63,4 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.39 Quantization]] - GPTQ, AWQ, GGUF, INT8/INT4 post-training quantization
 - [[11.40 Pruning & Sparsity]] - Structured / unstructured weight removal
 - [[11.41 Speculative Decoding]] - Draft-then-verify inference acceleration
+- [[11.42 Chunked Prefill]] - Split long prefills into chunks; co-schedule with decode for higher throughput
