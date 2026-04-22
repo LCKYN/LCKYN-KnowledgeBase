@@ -49,3 +49,4 @@ tags: [type/moc, status/evergreen, context/llm]
 ## Training
 - [[11.30 Scaling Laws]] - Chinchilla, compute-optimal training
 - [[11.31 Supervised Fine-Tuning]] - Instruction tuning on labeled prompt-response pairs
+- [[11.32 PEFT]] - LoRA, QLoRA, Adapters, Prefix Tuning
