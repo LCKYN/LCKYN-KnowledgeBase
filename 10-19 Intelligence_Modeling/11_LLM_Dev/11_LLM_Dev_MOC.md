@@ -30,7 +30,6 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.24 Clean Code for LLM Agents]]
 - [[11.25 Writing Code That AI Assistants Understand]]
 - [[11.29 One Function Per File for LLM Indexing]]
-- [[11.30 SKILL.md Template for Production LLM Agents]]
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
