@@ -6,30 +6,30 @@ tags: [type/moc, status/evergreen, context/llm]
 # 11 LLM Development MOC
 
 ## Concepts
-- [[11.01 Attention Mechanism]]
-- [[11.02 LLM Agents]]
-- [[11.03 LLM Tool Calls]]
-- [[11.04 LLM Workflows]]
-- [[11.19 Era of LLM]]
-- [[11.06 AG-UI Protocol]]
-- [[11.07 A2UI]]
-- [[11.09 Placeholder-Based Generation]]
-- [[11.10 LLM Guardrails]]
-- [[11.11 Agentic LLM]]
-- [[11.12 RAG]]
-- [[11.13 Chain of Thought]]
-- [[11.14 Prompt Engineering]]
-- [[11.15 LLM Evaluation Metrics]]
-- [[11.16 Context Window Management]]
-- [[11.28 Context Rot]]
-- [[11.18 LLM Throughput & Memory Bound]]
-- [[11.20 LLM Memory Architecture]]
-- [[11.21 Prompt Caching]]
-- [[11.22 Computing Units for AI]]
-- [[11.23 Workspace Indexing]]
-- [[11.24 Clean Code for LLM Agents]]
-- [[11.25 Writing Code That AI Assistants Understand]]
-- [[11.29 One Function Per File for LLM Indexing]]
+- [[11.01 Attention Mechanism]] - Query-Key-Value scaled dot-product; the core of transformers
+- [[11.02 LLM Agents]] - LLMs that plan, use tools, and act in loops
+- [[11.03 LLM Tool Calls]] - Structured function-calling interface between models and external APIs
+- [[11.04 LLM Workflows]] - Predefined orchestration patterns vs autonomous agents
+- [[11.19 Era of LLM]] - Historical phases of LLM development and capability scaling
+- [[11.06 AG-UI Protocol]] - Standard protocol for streaming agent state to frontends
+- [[11.07 A2UI]] - Agent-to-UI communication patterns
+- [[11.09 Placeholder-Based Generation]] - Template-driven structured output via slots
+- [[11.10 LLM Guardrails]] - Input/output filters for safety, policy, and format enforcement
+- [[11.11 Agentic LLM]] - Models trained or scaffolded for multi-step autonomous behavior
+- [[11.12 RAG]] - Retrieval-Augmented Generation; ground responses in external knowledge
+- [[11.13 Chain of Thought]] - Step-by-step reasoning prompting and training
+- [[11.14 Prompt Engineering]] - Techniques for shaping LLM behavior via input design
+- [[11.15 LLM Evaluation Metrics]] - Benchmarks, judges, and task-specific quality measures
+- [[11.16 Context Window Management]] - Strategies for working within and across token limits
+- [[11.28 Context Rot]] - Degradation of model performance as context grows
+- [[11.18 LLM Throughput & Memory Bound]] - Why decode is memory-bound and prefill is compute-bound
+- [[11.20 LLM Memory Architecture]] - Short-term, long-term, and episodic memory for agents
+- [[11.21 Prompt Caching]] - Reuse KV cache across requests with shared prefixes
+- [[11.22 Computing Units for AI]] - GPUs, TPUs, NPUs, LPUs and their trade-offs
+- [[11.23 Workspace Indexing]] - Indexing codebases for AI assistant retrieval
+- [[11.24 Clean Code for LLM Agents]] - Code conventions that improve LLM comprehension
+- [[11.25 Writing Code That AI Assistants Understand]] - Authoring patterns for AI-friendly codebases
+- [[11.29 One Function Per File for LLM Indexing]] - Granular file structure for precise retrieval
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
