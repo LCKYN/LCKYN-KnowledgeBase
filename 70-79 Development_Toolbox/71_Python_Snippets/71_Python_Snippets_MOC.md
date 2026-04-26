@@ -24,6 +24,7 @@ tags: [type/moc, status/growing, context/python]
 - [[71.06 Python Clean Code]] - Naming, functions, classes, error handling, anti-patterns
 - [[71.07 SOLID Principles]] - SRP, OCP, LSP, ISP, DIP with Python examples
 - [[71.08 Python Type Hints & Performance]] - Type hints vs static types; when PEP 649 / mypyc / beartype actually affect speed
+- [[71.10 Policy Pattern over Boolean Flags]] - Replace tangled boolean-flag branches with composable, config-driven policy functions
 
 ### Libraries & Packages
 - [[71.02 Disnake Package]] - Discord API wrapper with slash commands, buttons, modals
