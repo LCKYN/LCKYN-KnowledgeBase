@@ -20,3 +20,4 @@ Development tools, editors, extensions, and utilities for productive software en
 - [[75.09 Data Wrangler]] - VS Code data exploration & transformation
 - [[75.10 ReportLab]] - Python programmatic PDF generation
 - [[75.11 Typst]] - Modern markup-based typesetting system
+- [[75.12 Obscura]] - Rust headless browser for AI agents & web scraping (CDP-compatible)
