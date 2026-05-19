@@ -21,3 +21,4 @@ Development tools, editors, extensions, and utilities for productive software en
 - [[75.10 ReportLab]] - Python programmatic PDF generation
 - [[75.11 Typst]] - Modern markup-based typesetting system
 - [[75.12 Obscura]] - Rust headless browser for AI agents & web scraping (CDP-compatible)
+- [[75.13 hfviewer]] - Interactive Hugging Face model architecture visualizer
