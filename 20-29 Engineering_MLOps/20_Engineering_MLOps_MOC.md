@@ -12,12 +12,9 @@ tags:
 
 ## 21 Infrastructure
 
-Cloud platforms, compute resources, and deployment environments for ML workloads.
+Cloud platforms, compute resources, networking, and deployment environments for ML workloads.
 
-- Kubernetes for ML
-- GPU/TPU provisioning
-- Container orchestration
-- Serverless ML inference
+- [21_Infrastructure_MOC](obsidian://open?vault=YourVaultName&file=20-29%20Engineering_MLOps/21_Infrastructure/21_Infrastructure_MOC)
 
 ## 22 MLOps & LLMOps
 
