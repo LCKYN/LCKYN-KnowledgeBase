@@ -35,6 +35,10 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.25 Writing Code That AI Assistants Understand]] - Authoring patterns for AI-friendly codebases
 - [[11.29 One Function Per File for LLM Indexing]] - Granular file structure for precise retrieval
 
+## Security & Attacks
+- [[11.47 Knowledge Base Poisoning]] - Injecting malicious documents into the RAG corpus
+- [[11.48 User Message Confusion]] - Conflating instructions, user input, and untrusted content
+
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
 - [[11.08 MCP Server]]
