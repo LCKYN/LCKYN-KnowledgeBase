@@ -17,6 +17,10 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.10 LLM Guardrails]] - Input/output filters for safety, policy, and format enforcement
 - [[11.11 Agentic LLM]] - Models trained or scaffolded for multi-step autonomous behavior
 - [[11.12 RAG]] - Retrieval-Augmented Generation; ground responses in external knowledge
+- [[11.43 Graph RAG]] - Knowledge-graph retrieval for global and multi-hop questions
+- [[11.44 Contextual RAG]] - Prepend LLM-written context to chunks before indexing
+- [[11.45 Hypothetical Document Embeddings (HyDE)]] - Retrieve via a generated hypothetical answer
+- [[11.46 Falsification-Verification RAG (FVA-RAG)]] - Retrieve refuting evidence to verify claims
 - [[11.13 Chain of Thought]] - Step-by-step reasoning prompting and training
 - [[11.14 Prompt Engineering]] - Techniques for shaping LLM behavior via input design
 - [[11.15 LLM Evaluation Metrics]] - Benchmarks, judges, and task-specific quality measures
