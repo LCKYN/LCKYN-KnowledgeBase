@@ -23,10 +23,7 @@ FinOps practices for ML/LLM workloads.
 
 Planning and execution for ML/LLM projects.
 
-- ML project lifecycle
-- Stakeholder communication
-- Risk management for AI projects
-- Agile adaptations for ML
+- [[33_Project_Management_MOC]]
 
 ## 34 Strategic Leadership
 
