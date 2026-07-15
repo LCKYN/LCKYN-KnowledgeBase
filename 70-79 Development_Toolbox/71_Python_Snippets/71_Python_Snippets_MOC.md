@@ -32,7 +32,11 @@ tags: [type/moc, status/growing, context/python]
 - [[71.09 Pydantic]] - Data validation, serialization, JSON schema generation; backbone of FastAPI and LLM tool schemas
 
 ### Code Patterns
-- Design patterns
+- [[71.11 Design Patterns]] - GoF overview: the three families, Pythonic replacements, when (not) to use patterns
+- [[71.12 Creational Design Patterns]] - Singleton, Factory Method, Abstract Factory, Builder, Prototype
+- [[71.13 Structural Design Patterns]] - Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
+- [[71.14 Behavioral Design Patterns]] - Strategy, Observer, Command, State, Template Method, and the rest of the GoF 11
+- [[71.15 Advanced Design Patterns]] - Beyond GoF: DI, Repository, Unit of Work, Specification, CQRS, Event Sourcing
 - Decorators and context managers
 - Async/await patterns
 - Functional programming
