@@ -60,6 +60,10 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.32 PEFT]] - LoRA, QLoRA, Adapters, Prefix Tuning
 - [[11.33 Continued Pre-training]] - Domain adaptation via additional pre-training on raw corpora
 - [[11.34 Full Fine-Tuning vs PEFT]] - Trade-offs between updating all weights vs adapter-based methods
+- [[11.49 RLHF]] - Align models to human preferences via reward models + PPO
+- [[11.50 Reward Models]] - Learned preference scorers; Bradley-Terry, reward hacking
+- [[11.51 Direct Preference Optimization (DPO)]] - Preference alignment without RL or a reward model
+- [[11.52 GRPO]] - Critic-free RL with group-relative advantages; verifiable rewards
 
 ## Optimization & Efficiency
 - [[11.35 Mixed Precision Training]] - FP16, BF16, FP8 for faster, lower-memory training
