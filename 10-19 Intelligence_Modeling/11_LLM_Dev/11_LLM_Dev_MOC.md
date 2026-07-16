@@ -38,6 +38,9 @@ tags: [type/moc, status/evergreen, context/llm]
 ## Security & Attacks
 - [[11.47 Knowledge Base Poisoning]] - Injecting malicious documents into the RAG corpus
 - [[11.48 User Message Confusion]] - Conflating instructions, user input, and untrusted content
+- [[11.53 Prompt Injection]] - Direct and indirect instruction override; the #1 LLM app risk
+- [[11.54 Agent Tool Sandboxing]] - Least-privilege tools, isolation, and human-in-the-loop gates
+- [[11.55 OWASP LLM Top 10]] - Standard taxonomy of LLM application security risks
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
