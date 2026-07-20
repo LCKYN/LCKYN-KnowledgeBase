@@ -12,6 +12,7 @@ tags: [type/moc, status/growing, context/data-engineering]
 
 ## Concepts
 - [[23.02 TF-IDF]]
+- [[23.06 Vector Similarity Metrics]] - Cosine vs Dot Product vs Euclidean, how to choose
 
 ## Tools & Frameworks
 - [[23.03 Redis]]
