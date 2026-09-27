@@ -47,12 +47,16 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.08 MCP Server]]
 - [[11.26 XGrammar]] - Constrained generation via CFG token masking; near-zero overhead structured output
 
+## Decision Models (System One)
+- [[11.56 Jev]] - TypeSafe's hosted typed-decision API; Choice / Score / Noul with probabilities
+- [[11.57 Laya]] - Open-source ModernBERT decision model; self-hosted Jev alternative
+
 ## Inference Engines
 - [[11.27 LLM Generation Engines]] - vLLM, SGLang, TensorRT-LLM, TGI, llama.cpp, Ollama
 
 ## Inference Providers
-- [[11.20 Groq]]
-- [[11.21 Cerebras]]
+- [[11.58 Groq]]
+- [[11.59 Cerebras]]
 
 ## Architectures
 - [[11.17 Mixture of Experts]]

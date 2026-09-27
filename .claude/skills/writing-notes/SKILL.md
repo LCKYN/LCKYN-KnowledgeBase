@@ -23,7 +23,7 @@ tags: [type/concept, status/evergreen, context/llm]
 - Three nested namespaces, pick one from each:
   - `type/` → `concept`, `code`, `template`, `benchmark`, `tool`, `moc`
   - `status/` → `seed`, `growing`, `evergreen`
-  - `context/` → `llm`, `mle`, `dl`, `finops`, `data-engineering`, `km`, `dev-tools`, `devops`, `python`, `mlops`, `safety`, `ai`
+  - `context/` → `llm`, `mle`, `dl`, `finops`, `data-engineering`, `km`, `dev-tools`, `devops`, `python`, `mlops`, `safety`, `ai`, `gamedev`
 - The canonical, up-to-date tag list lives in `50-59 Knowledge_Management/52_Tagging_Taxonomy/52.01 Taxonomy & Tagging Strategy.md` — check it before inventing a new tag.
 
 ## Obsidian Formatting

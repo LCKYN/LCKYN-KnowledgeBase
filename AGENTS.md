@@ -10,18 +10,19 @@ Folders follow `XX-XX Category/YY_Subcategory/` with a two-level hierarchy:
 
 | Range | Category |
 |-------|----------|
-| 10-19 | Intelligence & Modeling (LLM, ML, Deep Learning, XAI) |
-| 20-29 | Engineering & MLOps (Infrastructure, MLOps/LLMOps, Databases) |
-| 30-39 | Strategy & Architecture (System Design, Cost, Project Management) |
-| 40-49 | Data Management (Engineering, Quality, Feature Engineering) |
-| 50-59 | Knowledge Management (System Guides, Tagging, Tools) |
-| 60-69 | Game Development (Side projects) |
-| 70-79 | Development Toolbox (Python, SQL, Shell snippets) |
-| 90-99 | Archive & Personal (Post-mortems, Logs, Reading List) |
+| 10-19 | Intelligence & Modeling (LLM Dev, Machine Learning, Deep Learning / CV) |
+| 20-29 | Engineering & MLOps (Infrastructure, MLOps/LLMOps, Database & Retrieval, Monitoring) |
+| 30-39 | Strategy & Architecture (System Design, Cost Management, Project Management) |
+| 40-49 | Data Management (Data Engineering, Data Quality, Feature Engineering) |
+| 50-59 | Knowledge Management (System Guides, Tagging Taxonomy) |
+| 60-69 | Game Development (Godot side projects) |
+| 70-79 | Development Toolbox (Python Snippets, Algorithms, Shell, Git Workflows, Dev Tools) |
+| 90-99 | Archive & Personal (Learning Platforms, Books, Career Tools) |
 
-- Notes use the `YY.NN Title.md` naming convention (e.g., `51.01 Johnny.Decimal System.md`).
-- Each category and subcategory has a `_MOC.md` index file (e.g., `50_Knowledge_Management_MOC.md`).
-- Images/PDFs go in `99_Attachments/`. Legacy content lives in `.old/`.
+- Notes use the `YY.NN Title.md` naming convention (e.g., `51.01 Johnny.Decimal System.md`). IDs must be unique — check the folder for the next free number before creating a note.
+- Each category and subcategory has a `_MOC.md` index file (e.g., `50_Knowledge_Management_MOC.md`) with `id` set to its bare number (e.g., `id: 50`).
+- Only add a subcategory to its `X0` MOC once the folder and its `_MOC.md` exist — no links to planned-but-missing MOCs.
+- Images/PDFs go in `99_Attachments/` (Obsidian's configured attachment folder; created on first use).
 
 ## Hard Rules
 

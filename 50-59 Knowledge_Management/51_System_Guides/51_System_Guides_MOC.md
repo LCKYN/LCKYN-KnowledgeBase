@@ -1,5 +1,5 @@
 ---
-id: 51.00
+id: 51
 tags: [type/moc, status/evergreen, context/km]
 ---
 # 51 System Guides MOC

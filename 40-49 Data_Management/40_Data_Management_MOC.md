@@ -17,10 +17,7 @@ File formats, data pipelines, and storage patterns for analytics and ML.
 
 Ensuring data reliability and compliance throughout the pipeline.
 
-- Data profiling and validation
-- Data contracts and schemas
-- Quality metrics and monitoring
-- Lineage tracking and cataloging
+- [[42_Data_Quality_MOC]]
 
 ## 43 Feature Engineering
 

@@ -1,5 +1,5 @@
 ---
-id: 50.00
+id: 50
 tags: [type/moc, status/evergreen, context/km]
 ---
 # 50 Knowledge Management MOC

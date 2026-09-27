@@ -1,5 +1,5 @@
 ---
-id: 52.00
+id: 52
 tags: [type/moc, status/evergreen, context/km]
 ---
 # 52 Tagging Taxonomy MOC

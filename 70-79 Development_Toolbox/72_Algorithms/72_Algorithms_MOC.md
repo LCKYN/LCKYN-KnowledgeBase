@@ -28,11 +28,24 @@ tags: [type/moc, status/evergreen, context/dev-tools]
 - [[72.14 Tree Traversals]]
 - [[72.15 Hash Table Techniques]]
 - [[72.16 Heap and Priority Queue]]
+- [[72.31 Binary Tree]]
 
 ## Search & Sort
 
 - [[72.17 Binary Search Patterns]]
+- [[72.23 Binary Search]]
 - [[72.18 Sorting Algorithms Comparison]]
+- [[72.32 Comparison Sorting Algorithms]]
+  - [[72.21 Quick Sort]]
+  - [[72.22 Merge Sort]]
+  - [[72.24 Heap Sort]]
+  - [[72.25 Bubble Sort]]
+  - [[72.26 Insertion Sort]]
+  - [[72.27 Selection Sort]]
+  - [[72.28 Tim Sort]]
+- [[72.33 Non-Comparison Sorting Algorithms]]
+  - [[72.29 Radix Sort]]
+  - [[72.30 Bucket Sort]]
 
 ## ML/LLM Relevant
 

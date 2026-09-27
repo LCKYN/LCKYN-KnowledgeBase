@@ -9,6 +9,7 @@ tags: [type/moc, status/seed, context/mlops]
 - [[24.01 Model Drift Detection]]
 - [[24.02 Observability Stack]]
 - [[24.03 OpenTelemetry]]
+- [[24.07 API Server Profiling]] - What the server waits on, CPU/RAM usage, stable vs spike patterns
 
 ## LLM Observability & Evaluation
 - [[24.04 LLM Observability & Tracing]] - Traces/spans for prompts, retrievals, and tool calls; OTel GenAI conventions

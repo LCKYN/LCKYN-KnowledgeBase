@@ -1,9 +1,6 @@
 ---
 id: 20
-tags:
-  - type/moc
-  - status/growing
-  - context/mlops
+tags: [type/moc, status/growing, context/mlops]
 ---
 
 # 20 Engineering & MLOps MOC
@@ -14,7 +11,7 @@ tags:
 
 Cloud platforms, compute resources, networking, and deployment environments for ML workloads.
 
-- [21_Infrastructure_MOC](obsidian://open?vault=YourVaultName&file=20-29%20Engineering_MLOps/21_Infrastructure/21_Infrastructure_MOC)
+- [[21_Infrastructure_MOC]]
 
 ## 22 MLOps & LLMOps
 

@@ -11,7 +11,7 @@ A personal knowledge vault for a **Data / ML / LLM Engineer**, organized using t
 |------|----------|--------|
 | **10-19** | Intelligence & Modeling | LLM Dev, Machine Learning, Deep Learning / CV |
 | **20-29** | Engineering & MLOps | Infrastructure, MLOps/LLMOps, Databases, Monitoring |
-| **30-39** | Strategy & Architecture | System Design, Cost Management |
+| **30-39** | Strategy & Architecture | System Design, Cost Management, Project Management |
 | **40-49** | Data Management | Data Engineering, Data Quality, Feature Engineering |
 | **50-59** | Knowledge Management | System Guides, Tagging & Taxonomy |
 | **60-69** | Game Development | Side projects (Godot) |
@@ -37,7 +37,7 @@ Notes use a nested tag taxonomy:
 
 - `#type/` → `concept`, `code`, `template`, `benchmark`, `tool`, `moc`
 - `#status/` → `seed`, `growing`, `evergreen`
-- `#context/` → `llm`, `mle`, `dl`, `finops`, `data-engineering`, `km`, `dev-tools`, `devops`, `python`, `mlops`
+- `#context/` → `llm`, `mle`, `dl`, `finops`, `data-engineering`, `km`, `dev-tools`, `devops`, `python`, `mlops`, `safety`, `ai`, `gamedev`
 
 ## 📝 Note Anatomy
 

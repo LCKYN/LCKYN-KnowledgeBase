@@ -13,6 +13,3 @@ tags: [type/moc, status/evergreen, context/ai]
 
 ## 13 Deep Learning & CV
 - [[13_Deep_Learning_CV_MOC]]
-
-## 14 Explainable AI
-- [[14_Explainable_AI_MOC]]
