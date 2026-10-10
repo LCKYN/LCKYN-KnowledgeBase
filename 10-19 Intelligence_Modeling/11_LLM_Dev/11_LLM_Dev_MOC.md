@@ -41,6 +41,8 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.53 Prompt Injection]] - Direct and indirect instruction override; the #1 LLM app risk
 - [[11.54 Agent Tool Sandboxing]] - Least-privilege tools, isolation, and human-in-the-loop gates
 - [[11.55 OWASP LLM Top 10]] - Standard taxonomy of LLM application security risks
+- [[11.60 Hidden Prompt Injection in Email]] - Invisible instructions in mail; exfiltration, worms, and layered defenses
+- [[11.61 Prompt Obfuscation & Mismatched Generalization]] - Why disguised payloads beat keyword filters and safety training
 
 ## Tools & Frameworks
 - [[11.05 CopilotKit]]
@@ -60,6 +62,10 @@ tags: [type/moc, status/evergreen, context/llm]
 
 ## Architectures
 - [[11.17 Mixture of Experts]]
+- [[11.63 Transformer Depth & Width]] - Layer counts, residual width, and how sizes in a family differ
+
+## Interpretability
+- [[11.62 Mechanistic Interpretability]] - Reverse-engineering features and circuits inside the model
 
 ## Training
 - [[11.30 Scaling Laws]] - Chinchilla, compute-optimal training
