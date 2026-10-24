@@ -20,6 +20,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.43 Graph RAG]] - Knowledge-graph retrieval for global and multi-hop questions
 - [[11.44 Contextual RAG]] - Prepend LLM-written context to chunks before indexing
 - [[11.45 Hypothetical Document Embeddings (HyDE)]] - Retrieve via a generated hypothetical answer
+- [[11.64 HyDE vs Standard RAG]] - When hypothetical-doc retrieval beats raw-query retrieval
 - [[11.46 Falsification-Verification RAG (FVA-RAG)]] - Retrieve refuting evidence to verify claims
 - [[11.13 Chain of Thought]] - Step-by-step reasoning prompting and training
 - [[11.14 Prompt Engineering]] - Techniques for shaping LLM behavior via input design
