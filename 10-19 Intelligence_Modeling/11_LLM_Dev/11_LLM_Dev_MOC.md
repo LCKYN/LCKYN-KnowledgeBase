@@ -17,6 +17,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.10 LLM Guardrails]] - Input/output filters for safety, policy, and format enforcement
 - [[11.11 Agentic LLM]] - Models trained or scaffolded for multi-step autonomous behavior
 - [[11.12 RAG]] - Retrieval-Augmented Generation; ground responses in external knowledge
+- [[11.65 Hybrid Search (Dense + Sparse)]] - Fuse embedding + BM25 retrieval via RRF or weighted α
 - [[11.43 Graph RAG]] - Knowledge-graph retrieval for global and multi-hop questions
 - [[11.44 Contextual RAG]] - Prepend LLM-written context to chunks before indexing
 - [[11.45 Hypothetical Document Embeddings (HyDE)]] - Retrieve via a generated hypothetical answer
