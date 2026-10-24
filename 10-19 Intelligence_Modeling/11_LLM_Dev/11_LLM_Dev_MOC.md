@@ -18,6 +18,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.11 Agentic LLM]] - Models trained or scaffolded for multi-step autonomous behavior
 - [[11.12 RAG]] - Retrieval-Augmented Generation; ground responses in external knowledge
 - [[11.66 RAG Failure Modes]] - What breaks at each pipeline stage and how to diagnose it
+- [[11.67 RAG Applications]] - Domain use cases, techniques per data shape, when not to use RAG
 - [[11.65 Hybrid Search (Dense + Sparse)]] - Fuse embedding + BM25 retrieval via RRF or weighted α
 - [[11.43 Graph RAG]] - Knowledge-graph retrieval for global and multi-hop questions
 - [[11.44 Contextual RAG]] - Prepend LLM-written context to chunks before indexing
