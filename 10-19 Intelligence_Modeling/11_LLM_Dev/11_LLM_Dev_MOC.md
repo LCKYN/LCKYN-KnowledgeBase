@@ -26,6 +26,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.64 HyDE vs Standard RAG]] - When hypothetical-doc retrieval beats raw-query retrieval
 - [[11.46 Falsification-Verification RAG (FVA-RAG)]] - Retrieve refuting evidence to verify claims
 - [[11.68 Reranking (Cross-Encoders)]] - Two-stage retrieval: cross-encoder and LLM rerankers after fusion
+- [[11.69 Chunking Strategies]] - Splitting documents for retrieval: strategies, sizing, evaluation, pitfalls
 - [[11.13 Chain of Thought]] - Step-by-step reasoning prompting and training
 - [[11.14 Prompt Engineering]] - Techniques for shaping LLM behavior via input design
 - [[11.15 LLM Evaluation Metrics]] - Benchmarks, judges, and task-specific quality measures
