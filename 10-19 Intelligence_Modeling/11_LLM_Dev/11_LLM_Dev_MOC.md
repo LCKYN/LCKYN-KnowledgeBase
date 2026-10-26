@@ -32,6 +32,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.72 Embedding Models]] - Training, choosing, truncating, quantizing and fine-tuning retrieval embedders
 - [[11.73 Agentic RAG]] - Model-controlled retrieval: Self-RAG, CRAG, iterative and routing
 - [[11.74 ColBERT & Late Interaction]] - Token-level multi-vector retrieval with MaxSim scoring
+- [[11.75 Long Context vs RAG]] - When to fill the context window vs retrieve chunks
 - [[11.13 Chain of Thought]] - Step-by-step reasoning prompting and training
 - [[11.14 Prompt Engineering]] - Techniques for shaping LLM behavior via input design
 - [[11.15 LLM Evaluation Metrics]] - Benchmarks, judges, and task-specific quality measures
