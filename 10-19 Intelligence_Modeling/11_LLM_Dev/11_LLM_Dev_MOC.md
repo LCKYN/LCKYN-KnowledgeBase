@@ -28,6 +28,7 @@ tags: [type/moc, status/evergreen, context/llm]
 - [[11.68 Reranking (Cross-Encoders)]] - Two-stage retrieval: cross-encoder and LLM rerankers after fusion
 - [[11.69 Chunking Strategies]] - Splitting documents for retrieval: strategies, sizing, evaluation, pitfalls
 - [[11.70 Query Transformation]] - Rewriting, expanding, splitting and routing queries before retrieval
+- [[11.71 RAG Evaluation]] - Retrieval and generation metrics, test sets, regression testing
 - [[11.13 Chain of Thought]] - Step-by-step reasoning prompting and training
 - [[11.14 Prompt Engineering]] - Techniques for shaping LLM behavior via input design
 - [[11.15 LLM Evaluation Metrics]] - Benchmarks, judges, and task-specific quality measures
