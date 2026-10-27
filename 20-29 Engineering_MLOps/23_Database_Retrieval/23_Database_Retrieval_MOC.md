@@ -15,6 +15,7 @@ tags: [type/moc, status/growing, context/data-engineering]
 - [[23.06 Vector Similarity Metrics]] - Cosine vs Dot Product vs Euclidean, how to choose
 - [[23.07 ANN Indexes (HNSW, IVF, PQ)]] - How HNSW, IVF, PQ, ScaNN, DiskANN trade recall, speed, memory
 - [[23.08 HNSW]] - Layered proximity graph; the default in-RAM vector index
+- [[23.09 IVF-PQ]] - Clustered, PQ-compressed index for vectors too big for RAM
 
 ## Tools & Frameworks
 - [[23.03 Redis]]
