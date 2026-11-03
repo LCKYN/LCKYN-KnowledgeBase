@@ -18,6 +18,11 @@ tags: [type/moc, status/growing, context/python]
   - **Type System**: Deferred annotations (PEP 649), forward references without quotes
   - **Performance**: Free-threading (no GIL), subinterpreters, JIT compiler, incremental GC
   - **Tools**: Live process debugging (PEP 768), better error messages
+- [[71.16 Python 3.15 New Features]]
+  - **Profiling**: Tachyon sampling profiler (`profiling.sampling`), `profiling.tracing` replaces `cProfile`
+  - **Syntax**: `lazy import` (PEP 810), unpacking in comprehensions (PEP 798)
+  - **Built-ins**: `frozendict`, `sentinel`
+  - **Runtime**: UTF-8 by default, upgraded JIT, `abi3t` stable ABI for free-threading, incremental GC reverted
 
 ### Style & Best Practices
 - [[71.04 Google Python Style Guide]] - Google's canonical conventions for language rules, formatting, naming, and type annotations
@@ -43,7 +48,7 @@ tags: [type/moc, status/growing, context/python]
 - Data structures
 
 ### Performance Tips
-- Profiling and optimization (`cProfile`, `line_profiler`)
+- Profiling and optimization (Tachyon `profiling.sampling` in [[71.16 Python 3.15 New Features]], `cProfile`, `line_profiler`)
 - Memory management
 - Concurrency strategies (`asyncio`, `threading`, `multiprocessing`)
 - Caching techniques
