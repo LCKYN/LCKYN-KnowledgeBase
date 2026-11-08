@@ -13,6 +13,3 @@ Core documentation on how this vault is structured.
 ## 52 Tagging Taxonomy
 Strategies for metadata and cross-linking.
 - [[52_Tagging_Taxonomy_MOC]]: Index of tagging strategies and taxonomy rules.
-
-## 53 Tools & Workflow
-(Placeholder for future tools and workflow descriptions)
